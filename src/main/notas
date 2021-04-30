@@ -1,0 +1,36 @@
+O que é Micronaut ?
+Setup de um projeto utilizando Micronaut
+Configuração do IntelliJ para o Micronaut
+Recebendo dados via JSON: explicação sobre código pronto
+Recebendo dados via JSON: explicação enquanto constrói o código
+        Validando os dados de entrada de uma requisição: explicação em cima do código pronto
+        Validando os dados de entrada de uma requisição: explicação enquanto constrói o código
+        Conversão de um objeto de entrada para um objeto de domínio: explicação sobre o código pronto
+        Conversão de um objeto de entrada para um objeto de domínio: explicação enquanto constrói o código
+        Gravando os dados com Micronaut Data: explicação em cima do código pronto
+        Gravando os dados com Micronaut Data: explicação enquanto constrói o código
+        Fluxo completo para salvar um objeto no banco de dados
+        Métodos que geram queries no Micronaut Data: explicação sobre o código pronto
+        Métodos que geram queries no Micronaut Data: explicação enquanto constrói o código
+        Mapeando queries explicitamente no Micronaut Data: explicação sobre o código pronto
+        Mapeando queries explicitamente no Micronaut Data: explicação enquanto constrói o código
+        Recebendo dados via PUT: explicação sobre o código pronto
+        Recebendo dados via PUT: explicação enquanto constrói o código
+        Recebendo dados via DELETE: explicação sobre o código pronto
+        Recebendo dados via DELETE: explicação enquanto constrói o código
+        Demarcação de transação: explicação sobre o código pronto
+        Demarcação de transação: explicação enquanto constrói o código
+        Retornando dados em JSON: explicação sobre o código pronto
+        Retornando dados em JSON: explicação enquanto constrói o código
+        Definindo headers e status customizados: explicação sobre o código pronto
+        Definindo headers e status customizados: explicação enquanto constrói o código
+        Consumindo um endpoint REST com Micronaut de forma declarativa: explicação sobre o código pronto
+        Consumindo um endpoint REST com Micronaut de forma declarativa: explicação enquanto constrói o código
+        Configurando seu HTTP client com Micronaut para trabalhar com XML em vez de JSON: explicação sobre o código pronto
+        Configurando seu HTTP client com Micronaut para trabalhar com XML em vez de JSON: explicação enquanto constrói o código
+        Implementando Validação customizada com Micronaut Validation: explicação sobre o código pronto
+        Implementando Validação customizada com Micronaut Validation: explicação enquanto constrói o código
+        Micronaut Testing - como testar uma API REST: explicação sobre o código pronto
+        Micronaut Testing - como testar uma API REST: explicação enquanto constrói o código
+        Micronaut Testing - como criar mocks com Micronaut: explicação sobre o código pronto
+        Micronaut Testing - como criar mocks com Micronaut: explicação enquanto constrói o código
